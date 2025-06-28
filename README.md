@@ -56,6 +56,7 @@ python3 main.py --url https://target.com -o/--output result.md -t/--timeout 5
 
 📁 Sample Output
 
+```bash
 [*] Validating target reachability...
 [✓] Target is reachable
 
@@ -77,9 +78,12 @@ python3 main.py --url https://target.com -o/--output result.md -t/--timeout 5
 [*] Sensitive Files Scan...
 [!!!] Open Directory Detected: https://target.com/.git/
 
+```
 
 
 📑 Report Format
+
+```bash
 Generates a structured scan_report.md:
 
 Recon Summary
@@ -92,6 +96,12 @@ XSS Reflections Found
 
 Sensitive Files Detected
 
+```
+
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -100,7 +110,12 @@ This tool is intended for educational purposes and authorized security assessmen
 
 
 
+<br>
+<br>
+<br>
+
 📌 Roadmap / To-Do
+
  Add POST-based XSS/SQLi fuzzing
 
  Support for proxying (e.g., Burp or Caido)
@@ -114,6 +129,10 @@ This tool is intended for educational purposes and authorized security assessmen
  CVE lookup & vulnerability database linking
 
 
+<br>
+<br>
+<br>
+
 
  🧠 Author
 Haileamlak Sahle
@@ -123,11 +142,15 @@ GitHub: @0xh4il3x
 Linkedin:[Linkedin](https://linkedin.com/in/haileamlaksahle)
 
 
-
+<br>
+<br>
+<br>
 🤝 Contributions
 Pull requests, bug reports, and suggestions are welcome! Please open an issue or fork and submit your changes.
 
 
-
+<br>
+<br>
+<br>
 📜 License
 MIT License. See LICENSE file.
