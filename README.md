@@ -105,9 +105,10 @@ Sensitive Files Detected
 
 
 
-🔐 Legal Disclaimer
+## 🔐 Legal Disclaimer
+```bash
 This tool is intended for educational purposes and authorized security assessments only. Unauthorized use is prohibited.
-
+```
 
 
 <br>
