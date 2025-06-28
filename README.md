@@ -35,11 +35,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+```
 
-🧪 Usage
+## 🧪 Usage
 
+```bash
 python3 main.py --url http://example.com
-
+```
 Optional arguments:
 
 Flag	     Description
@@ -48,9 +50,9 @@ Flag	     Description
 -t, --timeout	Timeout in seconds for requests (default: 10 seconds)
 
 Example:
-
+```bash
 python3 main.py --url https://target.com -o/--output result.md -t/--timeout 5
-
+```
 
 📁 Sample Output
 
@@ -118,13 +120,12 @@ Haileamlak Sahle
 Passionate Penetration Tester | Ethical Hacker
 
 GitHub: @0xh4il3x
-Linkedin:@haileamlaksahle
+Linkedin:[Linkedin](https://linkedin.com/in/haileamlaksahle)
 
 
 
 🤝 Contributions
 Pull requests, bug reports, and suggestions are welcome! Please open an issue or fork and submit your changes.
-
 
 
 
